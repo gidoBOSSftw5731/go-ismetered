@@ -1,4 +1,4 @@
-package goismetered
+package gometered
 
 import (
 	"fmt"
