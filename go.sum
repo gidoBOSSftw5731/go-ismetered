@@ -1,0 +1,4 @@
+github.com/Wifx/gonetworkmanager v0.3.0 h1:Gn5uD11cBG6qg9w0NENjTjMNZ5Asz0zxRo7t2twPQ84=
+github.com/Wifx/gonetworkmanager v0.3.0/go.mod h1:EdhHf2O00IZXfMv9LC6CS6SgTwcMTg/ZSDhGvch0cs8=
+github.com/godbus/dbus/v5 v5.0.2 h1:QtWdZQyXTEn7S0LXv9nVxPUiT37d1i7UntpRTiKM86E=
+github.com/godbus/dbus/v5 v5.0.2/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
